@@ -13,6 +13,7 @@
 		90D5CE2D1E3163C300390DC1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 90D5CE2C1E3163C300390DC1 /* Assets.xcassets */; };
 		90D5CE301E3163C300390DC1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 90D5CE2E1E3163C300390DC1 /* LaunchScreen.storyboard */; };
 		90D5CE3B1E3163C300390DC1 /* You_Are_Awesome__Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90D5CE3A1E3163C300390DC1 /* You_Are_Awesome__Tests.swift */; };
+		90D5CEF61E36E29F00390DC1 /* You Are Awesome HW03 in Resources */ = {isa = PBXBuildFile; fileRef = 90D5CEF51E36E29F00390DC1 /* You Are Awesome HW03 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		90D5CE361E3163C300390DC1 /* You Are Awesome!!Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "You Are Awesome!!Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		90D5CE3A1E3163C300390DC1 /* You_Are_Awesome__Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = You_Are_Awesome__Tests.swift; sourceTree = "<group>"; };
 		90D5CE3C1E3163C300390DC1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		90D5CEF51E36E29F00390DC1 /* You Are Awesome HW03 */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "You Are Awesome HW03"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 			children = (
 				90D5CE251E3163C300390DC1 /* AppDelegate.swift */,
 				90D5CE271E3163C300390DC1 /* ViewController.swift */,
+				90D5CEF51E36E29F00390DC1 /* You Are Awesome HW03 */,
 				90D5CE291E3163C300390DC1 /* Main.storyboard */,
 				90D5CE2C1E3163C300390DC1 /* Assets.xcassets */,
 				90D5CE2E1E3163C300390DC1 /* LaunchScreen.storyboard */,
@@ -181,6 +184,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				90D5CEF61E36E29F00390DC1 /* You Are Awesome HW03 in Resources */,
 				90D5CE301E3163C300390DC1 /* LaunchScreen.storyboard in Resources */,
 				90D5CE2D1E3163C300390DC1 /* Assets.xcassets in Resources */,
 				90D5CE2B1E3163C300390DC1 /* Main.storyboard in Resources */,
@@ -412,6 +416,7 @@
 				90D5CE411E3163C300390DC1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		90D5CE421E3163C300390DC1 /* Build configuration list for PBXNativeTarget "You Are Awesome!!Tests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +425,7 @@
 				90D5CE441E3163C300390DC1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
